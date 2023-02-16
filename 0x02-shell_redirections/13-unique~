@@ -1,2 +1,0 @@
-#!/bin/bash
-cat henry.txt | sort | uniq | pr | lpr
